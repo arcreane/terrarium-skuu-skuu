@@ -4,11 +4,11 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Transforium
+PURPOSE OF PROJECT: Remotely control a terrarium with the help of an mobil app
+VERSION or DATE: 
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS:Erwann Chassagne, Evann Durain, Rayan Kallal
 USER INSTRUCTIONS:
 
 //Unused :
