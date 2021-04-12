@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=terrarium
+comment1.params=
+comment1.target=terrarium()
+comment2.params=equipement
+comment2.target=void\ ajouterEquipement(Equipement)
+comment3.params=
+comment3.target=java.util.HashMap\ get_equipements()
+comment4.params=id
+comment4.target=Equipement\ get_E_ById(java.lang.String)
+comment5.params=
+comment5.target=void\ afficheE()
+numComments=6

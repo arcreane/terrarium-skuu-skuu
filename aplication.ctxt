@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=aplication
+comment0.text=\r\n\ Donn\u00E9es\ r\u00E9elles\ du\ terrarimu\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=terrarium\ equipement\ actionneur\ capteur
+comment2.target=void\ etat_terrarium(terrarium,\ Equipement,\ Actionneur,\ Capteur)
+numComments=3

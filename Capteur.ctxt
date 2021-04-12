@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Capteur
+comment1.params=nom\ Donnees_capteur\ taille
+comment1.target=Capteur(java.lang.String,\ java.lang.String[],\ int)
+comment2.params=
+comment2.target=java.lang.String\ getID_capteur()
+comment3.params=
+comment3.target=java.lang.String[]\ getValue_capteur()
+comment4.params=position\ Donnee_serveur
+comment4.target=void\ setValue_of_Array(int,\ java.lang.String)
+comment5.params=position
+comment5.target=java.lang.String\ getValue_of_Array(int)
+comment6.params=nom\ Donnees_capteur
+comment6.target=void\ afficheD(java.lang.String,\ java.lang.String[])
+numComments=7

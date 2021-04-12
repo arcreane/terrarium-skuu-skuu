@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Actionneur
+comment0.text=\r\n\ Dans\ le\ terrarium,\ il\ n'y\ a\ qu'un\ actionneur,\ la\ valve.\r\n\ La\ valve\ peut\ \u00EAtre\ ouverte\ (1)\ ou\ ferm\u00E9e\ (0).\r\n
+comment1.params=nom\ etat_actionneur
+comment1.target=Actionneur(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getID_actionneur()
+comment3.params=etat_actionneur
+comment3.target=void\ ChangeValue_actionneur(boolean)
+comment4.params=
+comment4.target=boolean\ getValue_actionneur()
+numComments=5
